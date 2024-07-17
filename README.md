@@ -1,2 +1,2 @@
 # exemplos-ebac-back-end
-Exemplos
+Exemplos de projectos para cursos da ebac
