@@ -1,8 +1,4 @@
-# exemplos-ebac-back-end
-<<<<<<< HEAD
+# exemplos-ebac-back-end;
 Exemplos de projectos para cursos da ebac
 
 Primeiro exemplo de commit e push no repositório remoto.
-=======
-Exemplos de projectos para cursos da ebac.
->>>>>>> origin/main
